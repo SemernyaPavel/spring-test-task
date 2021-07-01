@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;users&apos; in &apos;com.pavel.test_task.web.controller.ItemController.filter(...)&apos; to &apos;items&apos;&#x0D;&#x0A;- Original project: &apos;test-task&apos;&#x0D;&#x0A;- Original element: &apos;com.pavel.test_task.web.controller.ItemController.filter(String, Map&lt;String, Object&gt;).users&apos;&#x0D;&#x0A;- Renamed element: &apos;users&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;users&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.pavel.test_task.web.controller{ItemController.java[ItemController~filter~QString;~QMap\&lt;QString;QObject;&gt;;@users!644!664!659!663!QIterable\&lt;QUser;&gt;;!0!false" name="items" references="true" stamp="1624693350789" version="1.0"/>
+</session>
